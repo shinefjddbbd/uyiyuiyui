@@ -1,0 +1,248 @@
+﻿  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.42.34436 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  cl /c /D BOF /GS- /std:c11 /Fo"intermediary\BOF\x64\\" /external:W1 /TC /c /Fo"intermediary\BOF\x64\source" Source.c
+cl : 命令行 warning D9025: 正在重写“/Fointermediary\BOF\x64\”(用“/Fointermediary\BOF\x64\source”)
+  Source.c
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(20,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(20,25): error C2085: “BeaconDataParse”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(21,1): error C2061: 语法错误: 标识符“DECLSPEC_IMPORT”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(22,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(22,25): error C2085: “BeaconDataShort”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(23,1): error C2061: 语法错误: 标识符“DECLSPEC_IMPORT”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(24,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(24,23): error C2085: “BeaconDataExtract”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(32,3): error C2085: “formatp”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(34,1): error C2061: 语法错误: 标识符“DECLSPEC_IMPORT”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(35,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(35,50): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(35,25): error C2085: “BeaconFormatReset”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(35,50): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(35,58): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(36,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(36,49): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(36,25): error C2085: “BeaconFormatFree”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(36,49): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(36,57): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(37,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(37,51): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(37,25): error C2085: “BeaconFormatAppend”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(37,51): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(37,80): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(38,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(38,51): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(38,25): error C2085: “BeaconFormatPrintf”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(38,51): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(38,75): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(39,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(39,51): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(39,23): error C2085: “BeaconFormatToString”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(39,51): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(39,70): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(40,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(40,48): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(40,25): error C2085: “BeaconFormatInt”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(40,48): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(40,67): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(48,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(48,24): error C2085: “BeaconPrintf”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(49,1): error C2061: 语法错误: 标识符“DECLSPEC_IMPORT”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(52,17): error C2061: 语法错误: 标识符“BOOL”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(52,17): error C2059: 语法错误:“;”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(52,46): error C2146: 语法错误: 缺少“)”(在标识符“token”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(52,46): error C2061: 语法错误: 标识符“token”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(52,46): error C2059: 语法错误:“;”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(52,51): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(53,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(53,24): error C2085: “BeaconRevertToken”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(54,1): error C2061: 语法错误: 标识符“DECLSPEC_IMPORT”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(57,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(57,46): error C2146: 语法错误: 缺少“)”(在标识符“x86”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(57,24): error C2085: “BeaconGetSpawnTo”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(57,46): error C2146: 语法错误: 缺少“,”(在标识符“x86”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(57,51): error C2059: 语法错误:“类型”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(57,75): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(58,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(58,51): error C2146: 语法错误: 缺少“)”(在标识符“hProc”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(58,24): error C2085: “BeaconInjectProcess”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(58,51): error C2146: 语法错误: 缺少“,”(在标识符“hProc”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(58,58): error C2059: 语法错误:“类型”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(58,127): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(59,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(59,72): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(59,24): error C2085: “BeaconInjectTemporaryProcess”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(59,72): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(59,141): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(60,1): error C2054: 在“DECLSPEC_IMPORT”之后应输入“(”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(60,64): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(60,24): error C2085: “BeaconCleanupProcess”: 不在形参表中
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(60,64): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(60,71): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,17): error C2061: 语法错误: 标识符“BOOL”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,17): error C2059: 语法错误:“;”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,53): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,46): error C2081: “wchar_t”: 形参表中的名称非法
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,53): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,60): error C2059: 语法错误:“类型”
+  (编译源文件“Source.c”)
+  
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\beacon.h(63,67): error C2059: 语法错误:“)”
+  (编译源文件“Source.c”)
+  

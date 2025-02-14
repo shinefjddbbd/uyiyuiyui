@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++_CODE\test\Beacon Object File4\Beacon Object File4\bofdefs.h(9,10): error C1083: 无法打开包括文件: “beacon-debug.h”: No such file or directory
+  (编译源文件“Source.cpp”)
+  
